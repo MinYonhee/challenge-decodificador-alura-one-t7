@@ -1,8 +1,8 @@
 <h1> Challenge ONE - Oracle + Alura </h1>
 
-Decodificador de Texto - Desafio #1
+<h2> Decodificador de Texto - Desafio #1 </h2>
 
-🚀 Sobre o Desafio
+<h3> 🚀 Sobre o Desafio </h3>
 As "chaves" de criptografia utilizadas são:
 
 A letra "e" é convertida para "enter"
