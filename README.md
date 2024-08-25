@@ -18,7 +18,7 @@
  - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original; <br>
  - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 <br>
-<h5>Por exemplo: </h5><br>
+<strong> Por exemplo:</strong> <br>
 "gato" => "gaitober" <br>
 gaitober" => "gato"
  <hr>
