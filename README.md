@@ -17,10 +17,11 @@ A letra "u" é convertida para "ufat"
 - Não devem ser utilizados letras com acentos nem caracteres especiais <br>
 - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original <br>
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
-<br>
-Por exemplo: <br>
+
+<p> Por exemplo: <br>
 "gato" => "gaitober" <br>
-gaitober" => "gato"
+gaitober" => "gato" </p>
  <hr>
+ 
 ![image](https://github.com/user-attachments/assets/e409a142-d883-4c78-bdcb-8817efde2969)
 
