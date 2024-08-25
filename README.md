@@ -3,7 +3,7 @@
 <h2> Decodificador de Texto - Desafio #1 </h2>
 
 <h3> 🚀 Sobre o Desafio </h3>
-<h5> As "chaves" de criptografia utilizadas são: </h5>
+<h4> As "chaves" de criptografia utilizadas são: </h4>
 <br>
 
  - A letra "e" é convertida para "enter"; <br>
@@ -20,9 +20,9 @@
  - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
 <br>
-<p> Por exemplo: <br>
+<h5>Por exemplo: </h5><br>
 "gato" => "gaitober" <br>
-gaitober" => "gato" </p>
+gaitober" => "gato"
  <hr>
  
 ![image](https://github.com/user-attachments/assets/e409a142-d883-4c78-bdcb-8817efde2969)
