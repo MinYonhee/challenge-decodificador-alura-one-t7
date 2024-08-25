@@ -5,10 +5,10 @@
 <h3> 🚀 Sobre o Desafio </h3>
 As "chaves" de criptografia utilizadas são:
 
-A letra "e" é convertida para "enter"
-A letra "i" é convertida para "imes"
-A letra "a" é convertida para "ai"
-A letra "o" é convertida para "ober"
+A letra "e" é convertida para "enter" <br>
+A letra "i" é convertida para "imes" <br>
+A letra "a" é convertida para "ai" <br>
+A letra "o" é convertida para "ober" <br>
 A letra "u" é convertida para "ufat"
  
 ✅ Requisitos cumpridos:
